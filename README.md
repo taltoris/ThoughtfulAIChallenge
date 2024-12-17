@@ -8,7 +8,7 @@ Which is for the job posting here:
 
 https://www.thoughtful.ai/job?gh_jid=4467861005&amp;gh_src=19c4d2c75us
 
-# Explaination
+# Explanation
 
 The function sort takes four arguments: width, height, length, and mass, representing the dimensions and mass of the package, respectively.
 It calculates the volume of the package by multiplying its dimensions.
